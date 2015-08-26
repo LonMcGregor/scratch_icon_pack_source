@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import com.lonm.icons.honestwinter.R;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
