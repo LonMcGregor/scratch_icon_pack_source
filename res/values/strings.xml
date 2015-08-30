@@ -2,13 +2,13 @@
 <resources>
 
     <!-- Basic theme information -->
-    <string name="theme_title">HonestWinter</string>
-    <string name="developer_name">lonm</string>
+    <string name="theme_title">Honest Winter</string>
+    <string name="developer_name">LonM</string>
+    
     <!-- This (optional) link will appear at the end of the theme description -->
     <string name="developer_link">http://github.com/lonmcgregor</string>
-    <string name="theme_description">&quot;LonMs Icon Pack&quot;</string>
+    <string name="theme_description">&quot;LonMs Honest Winter Icon Pack&quot;</string>
 
- 
     <!-- The feature graphic will appear above the theme description -->
     <string name="theme_feature">feature</string>
 
@@ -20,8 +20,7 @@
     <string name="hello_world">Hello world!</string>
     
     <!-- Go theme information -->
-
-    <string name="theme_info">Your theme information here</string>
-    <string name="go_applied">Text for theme applied popup</string>
+    <string name="theme_info">LonMs Honest Winter icon pack</string>
+    <string name="go_applied">Honest Winter Applied</string>
 
 </resources>

@@ -24,6 +24,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient5749">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5751" />
+      <stop
+         style="stop-color:#0088ff;stop-opacity:1"
+         offset="1"
+         id="stop5754" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient5836">
       <stop
          style="stop-color:#ff9e20;stop-opacity:1"
@@ -1907,6 +1919,15 @@
        y1="-204.23787"
        x2="-1338.2966"
        y2="-28.007393" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5749"
+       id="linearGradient5756"
+       x1="770.30597"
+       y1="-87.261505"
+       x2="770.30597"
+       y2="144.64758"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1915,17 +1936,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3842773"
-     inkscape:cx="-1206.1318"
-     inkscape:cy="1198.823"
+     inkscape:zoom="0.97883187"
+     inkscape:cx="840.43869"
+     inkscape:cy="920.84802"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1218"
-     inkscape:window-height="1005"
-     inkscape:window-x="1978"
-     inkscape:window-y="-4"
-     inkscape:window-maximized="1"
+     inkscape:window-width="997"
+     inkscape:window-height="774"
+     inkscape:window-x="2038"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
      inkscape:snap-global="false"
      showguides="false">
     <inkscape:grid
@@ -9515,6 +9536,43 @@
          d="m -1448.1622,-47.349815 10.8407,1.562098 6.4356,3.380884 12.4493,-3.548495 4.0261,2.324405 -6.623,6.241344 c 0,0 -2.7108,1.789665 -3.0403,2.941538 -0.3295,1.151878 3.52,10.75535 3.52,10.75535 l 6.5498,10.156276 7.414,2.267494 1.6056,3.6110851 7.2013,1.473571 4.1248,-3.657622 4.5635,-13.1341591 -4.1328,-2.720635 -0.3162,-9.912292 5.0428,0.5633 10.7133,5.850536 3.2608,4.230937 5.6061,-4.479895 -0.9184,-4.220478 2.1792,-3.774485 -0.3162,-9.912257 -3.2323,-2.537098 2.1222,-7.162374 -7.442,-3.962074 -4.7241,0.627944 -3.9975,-0.630523 2.9159,-7.375024 -0.8507,-3.17532 -3.3595,1.751039 0.7445,2.77823 -5.1774,-2.654538 -2.0986,-6.244052 -1.7898,-2.710959 -54.6637,6.351784 -7.4687,18.166322 z"
          id="path5956"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5762"
+       inkscape:export-filename="C:\Users\lonm\Documents\GitHub\scratch_icon_pack_source\res\drawable-xxxhdpi\icon.png"
+       inkscape:export-xdpi="90.000031"
+       inkscape:export-ydpi="90.000031">
+      <rect
+         y="-32.52248"
+         x="661.7171"
+         height="192"
+         width="192"
+         id="rect5743"
+         style="opacity:1;fill:url(#linearGradient5756);fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5745"
+         y="124.12218"
+         x="684.61322"
+         style="font-style:normal;font-weight:normal;font-size:71.70136261px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Castellar;-inkscape-font-specification:Castellar;fill:#ffffff"
+           y="124.12218"
+           x="684.61322"
+           id="tspan5747"
+           sodipodi:role="line">HW</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:36.00613022px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="695.36566"
+         y="56.352982"
+         id="text5758"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5760"
+           x="695.36566"
+           y="56.352982"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Castellar;-inkscape-font-specification:Castellar;fill:#ffffff;fill-opacity:1;">LONM</tspan></text>
     </g>
   </g>
 </svg>
