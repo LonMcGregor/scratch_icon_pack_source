@@ -47,6 +47,7 @@
     <item component="ComponentInfo{com.heavens_above.viewer_pro/com.heavens_above.viewer.ViewerActivity}" drawable="heavensabove" />
     <item component="ComponentInfo{com.squareenixmontreal.hitmango/com.squareenixmontreal.hitmango.Prime31UnityPlayerNativeActivityFullscreen}" drawable="hitmango" />
     <item component="ComponentInfo{com.humblebundle.library/com.humblebundle.library.DownloadListActivity}" drawable="humblebundle" />
+    <item component="ComponentInfo{com.microsoft.hyperlapsemobile/hyperlapsemobile.android.startpage}" drawable="hyperlapse" />
     <item component="ComponentInfo{com.stolencouchgames.ichi/com.unity3d.player.UnityPlayerProxyActivity}" drawable="ichi" />
     <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.globalnav.GlobalNavActivity}" drawable="iplayer" />
     <item component="ComponentInfo{com.lothianbuses.lothianbuses/md502c5b786630ac25641833cdb55ab70b8.HomeScreen}" drawable="lothianbuses" />
