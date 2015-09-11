@@ -9,9 +9,12 @@
     <item component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}" drawable="backup" />
     <item component="ComponentInfo{air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry}" drawable="bbcmedia" />
     <item component="ComponentInfo{bbc.mobile.news.uk/bbc.mobile.news.v3.app.TopLevelActivity}" drawable="bbcnews" />
+    <item component="ComponentInfo{uk.co.bbc.android.iplayerradio/uk.co.bbc.android.iplayerradiov2.ui.toplevelcomponents.mainactivity.MainActivity}" drawable="bbcradio" />
+    <item component="ComponentInfo{uk.co.bbc.android.sportdomestic/uk.co.bbc.android.sport.MainActivity}" drawable="bbcsport" />
     <item component="ComponentInfo{com.sunglab.bigbanghd/com.sunglab.bigbanghd.Intro}" drawable="bigbang" />
     <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.app.MainActivity}" drawable="bing" />
     <item component="ComponentInfo{com.blackboard.android/com.blackboard.android.activity.SplashActivity}" drawable="blackboard" />
+    <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc" />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
@@ -25,6 +28,7 @@
     <item component="ComponentInfo{air.com.richColin.DeepUnderTheSky/air.com.richColin.DeepUnderTheSky.AppEntry}" drawable="deepunderthesky" />
     <item component="ComponentInfo{com.evozi.deviceid/com.evozi.deviceid.MainActivity}" drawable="deviceid" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="dialer" />
+	<item component="ComponentInfo{uk.co.dominos.android/com.futureplatforms.dominos.android.KickOffActivity}" drawable="dominos" />
     <item component="ComponentInfo{com.tinyrebel.doctorwholegacy/com.tinyrebel.doctorwholegacy.DoctorWhoLegacyActivity}" drawable="doctorwholegacy" />
     <item component="ComponentInfo{com.doublefine.rad/com.doublefine.rad.MoaiActivity}" drawable="doublefinerad" />
     <item component="ComponentInfo{com.bel.android.dspmanager/com.bel.android.dspmanager.activity.DSPManager}" drawable="dspmanager" />
@@ -38,12 +42,14 @@
     <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fxplore" />
     <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.textedit.TextEditorActivity}" drawable="fxtext" />
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+	<item component="ComponentInfo{com.gaurav.gameoflife/com.gaurav.gameoflife.MainActivity}" drawable="gameoflife" />
     <item component="ComponentInfo{com.tmsoft.glowburst/com.tmsoft.glowburst.GlowBurst}" drawable="glowburst" />
     <item component="ComponentInfo{com.coffeestainstudios.goatsimulator/com.coffeestainstudios.goatsimulator.UE3JavaApp}" drawable="goatsim" />
     <item component="ComponentInfo{com.whitewhalegames.godofblades.humble/com.unity3d.player.UnityPlayerProxyActivity}" drawable="godofblades" />
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="googleplay" />
     <item component="ComponentInfo{com.noodlecake.ssg/com.noodlecake.ssg.ssg}" drawable="golf" />
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="googlesettings" />
+	<item component="ComponentInfo{com.microsoft.xboxmusic/com.microsoft.xboxmusic.uex.activity.MusicExperienceActivity}" drawable="groove" />
     <item component="ComponentInfo{com.heavens_above.viewer_pro/com.heavens_above.viewer.ViewerActivity}" drawable="heavensabove" />
     <item component="ComponentInfo{com.squareenixmontreal.hitmango/com.squareenixmontreal.hitmango.Prime31UnityPlayerNativeActivityFullscreen}" drawable="hitmango" />
     <item component="ComponentInfo{com.humblebundle.library/com.humblebundle.library.DownloadListActivity}" drawable="humblebundle" />
@@ -52,11 +58,15 @@
     <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.globalnav.GlobalNavActivity}" drawable="iplayer" />
     <item component="ComponentInfo{com.lothianbuses.lothianbuses/md502c5b786630ac25641833cdb55ab70b8.HomeScreen}" drawable="lothianbuses" />
     <item component="ComponentInfo{com.thomasbowker.lynerelease/com.unity3d.player.UnityPlayerNativeActivity}" drawable="lyne" />
+    <item component="ComponentInfo{com.md.mcfinder/mcdonalds.core.start.activity.McdonaldsHomeActivity}" drawable="mcdonalds" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.microsoft.msa.authenticator/com.microsoft.onlineid.authenticator.LauncherActivity}" drawable="microsoftmsa" />
+	<item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.apphost.LaunchActivity}" drawable="mslens" />
+    <item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="mstranslate" />
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote" />
     <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="opera" />
+    <item component="ComponentInfo{com.opera.max/com.opera.max.ui.v2.MainActivityBefore}" drawable="operamax" />
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
     <item component="ComponentInfo{com.privateinternetaccess.android/com.privateinternetaccess.android.LauncherActivity}" drawable="pia" />
     <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
@@ -73,7 +83,7 @@
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
     <item component="ComponentInfo{com.onegravity.sudoku.sudoku10kplus/com.onegravity.sudoku.SudokuInitializeActivity}" drawable="sudoku" />
     <item component="ComponentInfo{com.tapastic/com.tapastic.view.intro.IntroActivity_}" drawable="tapastic" />
-    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="teslacoil" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="teslacoil" />
     <item component="ComponentInfo{net.cactii.flash2/net.cactii.flash2.MainActivity}" drawable="torch" />
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
     <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.apps.SplashScreenActivity}" drawable="twitch" />

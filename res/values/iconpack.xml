@@ -10,9 +10,12 @@
 	    <item>backup</item>
 	    <item>bbcmedia</item>
 	    <item>bbcnews</item>
+	    <item>bbcradio</item>
+	    <item>bbcsport</item>
 	    <item>bigbang</item>
 	    <item>bing</item>
 	    <item>blackboard</item>
+	    <item>boinc</item>
 	    <item>calculator</item>
 	    <item>calendar</item>
 	    <item>camera</item>
@@ -26,6 +29,7 @@
 	    <item>deepunderthesky</item>
 	    <item>deviceid</item>
 	    <item>dialer</item>
+	    <item>dominos</item>
 	    <item>doctorwholegacy</item>
 	    <item>doublefinerad</item>
 	    <item>dspmanager</item>
@@ -39,12 +43,14 @@
 	    <item>fxplore</item>
 	    <item>fxtext</item>
 	    <item>gallery</item>
+	    <item>gameoflife</item>
 	    <item>glowburst</item>
 	    <item>goatsim</item>
 	    <item>godofblades</item>
 	    <item>golf</item>
 	    <item>googleplay</item>
 	    <item>googlesettings</item>
+	    <item>groove</item>
 	    <item>heavensabove</item>
 	    <item>hitmango</item>
 	    <item>humblebundle</item>
@@ -53,11 +59,15 @@
 	    <item>iplayer</item>
 	    <item>lothianbuses</item>
 	    <item>lyne</item>
+	    <item>mcdonalds</item>
 	    <item>messages</item>
 	    <item>microsoftmsa</item>
+	    <item>mslens</item>
+	    <item>mstranslate</item>
 	    <item>netflix</item>
 	    <item>onenote</item>
 	    <item>opera</item>
+	    <item>operamax</item>
 	    <item>outlook</item>
 	    <item>pia</item>
 	    <item>powerpoint</item>
