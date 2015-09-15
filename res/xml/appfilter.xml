@@ -6,6 +6,7 @@
     <item component="ComponentInfo{com.rovio.angrybirdsrio.ultimata/com.rovio.fusion.App}" drawable="angrybirdsrio" />    
     <item component="ComponentInfo{com.rovio.angrybirdsspaceHD.ads.ultimata/com.rovio.fusion.App}" drawable="angrybirdsspace" />
     <item component="ComponentInfo{com.elevenbitstudios.AnomalyWarzoneEarthHDNM/com.android.Game11Bits.MainActivity}" drawable="anomalywarzone" />
+    <item component="ComponentInfo{simon.jeu.FourmiDeLangton/simon.jeu.FourmiDeLangton.StartActivity}" drawable="antgame" />
     <item component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}" drawable="backup" />
     <item component="ComponentInfo{air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry}" drawable="bbcmedia" />
     <item component="ComponentInfo{bbc.mobile.news.uk/bbc.mobile.news.v3.app.TopLevelActivity}" drawable="bbcnews" />
@@ -56,6 +57,7 @@
     <item component="ComponentInfo{com.microsoft.hyperlapsemobile/hyperlapsemobile.android.startpage}" drawable="hyperlapse" />
     <item component="ComponentInfo{com.stolencouchgames.ichi/com.unity3d.player.UnityPlayerProxyActivity}" drawable="ichi" />
     <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.globalnav.GlobalNavActivity}" drawable="iplayer" />
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" />
     <item component="ComponentInfo{com.lothianbuses.lothianbuses/md502c5b786630ac25641833cdb55ab70b8.HomeScreen}" drawable="lothianbuses" />
     <item component="ComponentInfo{com.thomasbowker.lynerelease/com.unity3d.player.UnityPlayerNativeActivity}" drawable="lyne" />
     <item component="ComponentInfo{com.md.mcfinder/mcdonalds.core.start.activity.McdonaldsHomeActivity}" drawable="mcdonalds" />
@@ -72,6 +74,7 @@
     <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
     <item component="ComponentInfo{la.droid.qr.priva/la.droid.qr.priva.Options}" drawable="qrdroid" />
     <item component="ComponentInfo{com.reddit.iama/com.reddit.iama.MainIAMAListActivity}" drawable="redditama" />
+    <item component="ComponentInfo{com.firstscotrail/com.masabi.ukrail.android.app.mainmenu.DynamicMenuActivity}" drawable="scotrail" />
     <item component="ComponentInfo{com.wb.amzn.scribbleremix/com.game.scrib.AmazonLauncherActivity}" drawable="scribbleremix" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
