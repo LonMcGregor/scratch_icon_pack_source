@@ -2016,9 +2016,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1565.6739"
-     inkscape:cy="2687.4902"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="772.73465"
+     inkscape:cy="705.41623"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10621,6 +10621,25 @@
           </g>
         </g>
       </g>
+    </g>
+    <g
+       id="g5965"
+       inkscape:export-filename="C:\Users\lonm\Documents\GitHub\scratch_icon_pack_source\res\drawable-xxxhdpi\skype.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="252.25038"
+         x="647.00269"
+         height="192"
+         width="192"
+         id="rect5948"
+         style="opacity:1;fill:#00adef;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sssssssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path5963"
+         d="m 740.80959,302.07516 c 10.88533,1.00945 17.84997,2.04221 23.15774,11.31371 3.42328,5.97971 8.66878,13.80413 15.55635,13.6118 10.10236,-0.28211 13.90119,-6.55695 14.67247,-13.43502 1.07275,-9.56658 -7.10414,-17.9663 -14.31892,-23.15776 -8.38949,-6.03673 -24.44982,-10.01079 -38.71409,-10.25304 -15.87396,-0.2696 -33.43638,3.69233 -44.37095,15.20279 -7.10827,7.48264 -10.56433,19.31499 -8.13173,29.34494 2.6935,11.10564 12.50496,21.14284 23.15775,25.27906 16.63397,6.45856 31.65349,7.98734 46.31549,13.78859 19.81424,7.83982 10.29801,25.30226 -5.48008,29.16815 -18.41931,4.51302 -31.29947,-3.15202 -36.23922,-14.14214 -4.4932,-9.99661 -9.09282,-14.79965 -16.79379,-14.67246 -6.8324,0.11284 -13.57851,5.02167 -13.96536,11.84404 -0.79294,13.98398 9.8631,26.45986 21.92031,33.58757 10.54911,6.23619 29.14383,7.43415 41.36576,6.54074 13.84563,-1.0121 30.05401,-4.05386 39.95153,-13.78858 9.41949,-9.26456 13.2119,-23.07548 10.78337,-36.06245 -2.09826,-11.2208 -9.78724,-18.84041 -21.2132,-24.57196 -11.48479,-5.76106 -24.74873,-7.6014 -38.18376,-11.31371 -42.19609,-11.65945 -14.43849,-29.67241 0.53033,-28.28427 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

@@ -80,6 +80,7 @@
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="simops" />
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="skydrive" />
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
     <item component="ComponentInfo{com.elevenbitstudios.SleepwalkersJourneyHD.humble/com.android.Game11Bits.SleepWalkerHumbleBundleMainActivity}" drawable="sleepwalkers" />
     <item component="ComponentInfo{com.splashtop.remote.pad.v2/com.splashtop.remote.FirstActivity}" drawable="splashtop" />
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="soundrecorder" />
